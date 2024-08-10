@@ -1,0 +1,1 @@
+"My name is Daniel Souza, and I am seeking opportunities in the Information Technology field, with a focus on Linux System Administration and Web Development, where I can apply my knowledge in Red Hat, HTML, CSS, and JavaScript."
